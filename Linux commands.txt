@@ -1,0 +1,43 @@
+pwd    -present working directory
+mkdir  -make directory
+mkdir -p 
+touch  -create empty files
+cat    -display the content
+ls     -list the content of the directory
+mv     -moves(rename)files and directories
+cp     -copies files and directories
+rm     -remove file and directories
+rm -r  -directories to remove
+clear  -clear the screen
+cd     -change directory
+cd..   -move one level back
+head   -display the 1st 10 lines from top
+tail   -display the last 10 lines from bottom
+whoami -to disply who logged current user
+echo   -display the string in terminal
+grep   -search the word in a file
+man    -manual pages for all commands
+zip    -zip file in linux
+unzip  -unzip file in linux
+ssh    -secure shell command in linux
+ps     -process running on the system
+df     -disk usage
+du     -space usage
+free -m-memory ,swap usage
+uptime -howmuch time to running
+chmod  -change the mode of a file(permissions) read,write,execute(users,group,others)
+chown  -change the ownership
+wget   -download from internet
+sudo   -superuser do/rootuser
+useradd-add new user
+passwd -create password
+cal    -this month calander
+date   -display the date
+yum    -install
+wc     -count the lines,words characters in a file
+exit   -exit from the current shell
+ping   -network connection
+vim    -text editor
+history-previous executed command list
+su     -provides administrative access to another user
+ID     -command display user and group id

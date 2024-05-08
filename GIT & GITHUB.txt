@@ -1,0 +1,49 @@
+Git and Github
+
+*Difference b/w GIT and Github
+
+*Verson control system =git
+*Repository=folder /project
+
+GIT CONCEPTS 4
+1)Remote repository =git push
+2)local repository  =git commit -m
+3)Staging area / changes to committed     = Git add
+4)Working directory =create file/folder in visual studio code /untracked
+
+*git checkout -b =switch to branches
+*git status = check the status
+*git init =initialization
+
+STEPS 
+*Create a folder in desktop and opend CMD 
+*In cmd use (git init)
+*Create 2 or 3 files (vsc)
+*git status
+*git add filename =changed from working directory to staging area
+*git commit -m "comment" =changed from staging area to local repository
+*create repository in github
+*git remote add in github command use
+*git push -u origin main in github command use
+*git push === command will appear in cmd 
+*file/folder and branchs moved to github
+
+
+*git checkout -b "branch" ==switch to btanch
+*git branch
+*now on new branch 
+*same above steps
+
+
+MERGE
+*pull request (PR)
+*send to TL and if it correct TL merge to main branch
+
+
+
+
+
+
+
+
+
